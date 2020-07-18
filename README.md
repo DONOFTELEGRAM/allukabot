@@ -1,7 +1,7 @@
 # allukabot // @zoldycktmbot 
 > with HunterxHunter theme.
 
-[![Deploy](https://telegra.ph/file/511ad504656e712b88235.jpg)](https://heroku.com/deploy?template=https://github.com/Deepak15011/vattoly.git)
+[![Deploy](https://telegra.ph/file/511ad504656e712b88235.jpg)](https://heroku.com/deploy?template=https://github.com/Deepak15011/allukabot.git)
 
 
 
